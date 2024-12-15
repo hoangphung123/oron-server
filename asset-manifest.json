@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/oron-server/static/css/main.8b72f9d9.css",
+    "main.js": "/oron-server/static/js/main.03872c94.js",
+    "static/media/pngwing.png": "/oron-server/static/media/pngwing.aa16f9f7e6884b8e1b38.png",
+    "static/media/pngwing2.png": "/oron-server/static/media/pngwing2.ca6e35a7de505b088034.png",
+    "static/media/Rectangle 24.png": "/oron-server/static/media/Rectangle 24.6d36abbea493c6d96dbf.png",
+    "static/media/-unscreen.gif": "/oron-server/static/media/3da1c204207bec1124d5a7c8f94534-unscreen.5e134e113a5f9e83f8ef.gif",
+    "static/media/7270229.jpg": "/oron-server/static/media/7270229.6d2f3b71cf91076b9437.jpg",
+    "static/media/fa-solid-900.ttf": "/oron-server/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/Screenshot 2023-10-22 205227.png": "/oron-server/static/media/Screenshot 2023-10-22 205227.780d8202bd8b90f55ffe.png",
+    "static/media/fa-brands-400.ttf": "/oron-server/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/UserHomePage.png": "/oron-server/static/media/UserHomePage.8af178605ac0d81e5fa4.png",
+    "static/media/fa-solid-900.woff2": "/oron-server/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/sharing2.jpg": "/oron-server/static/media/sharing2.a889f500a75242156e91.jpg",
+    "static/media/fa-brands-400.woff2": "/oron-server/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/tenlua3.png": "/oron-server/static/media/tenlua3.b286ee491152d831730b.png",
+    "static/media/fa-regular-400.ttf": "/oron-server/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/oron-server/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/avata.jpg": "/oron-server/static/media/avata.94e0a29ff015346ca47f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/oron-server/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/oron-server/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/oron-server/index.html",
+    "main.8b72f9d9.css.map": "/oron-server/static/css/main.8b72f9d9.css.map",
+    "main.03872c94.js.map": "/oron-server/static/js/main.03872c94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b72f9d9.css",
+    "static/js/main.03872c94.js"
+  ]
+}
