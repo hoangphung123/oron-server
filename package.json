@@ -2,7 +2,7 @@
   "name": "booking",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hoangphung123.github.io/oron-server",
+  "homepage": "https://hoangphung123.github.io/oron-server/",
   "dependencies": {
     "@ant-design/icons": "^5.5.2",
     "@chakra-ui/react": "^2.8.2",
