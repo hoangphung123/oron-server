@@ -269,7 +269,7 @@ function App() {
   return (
     <div>
       <Toaster position="top-right"/>
-      <RouterProvider router={router} />
+      <RouterProvider router={router} basename={process.env.PUBLIC_URL}/>
     </div>
   );
 }
