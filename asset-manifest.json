@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oron-server/static/css/main.8b72f9d9.css",
-    "main.js": "/oron-server/static/js/main.03872c94.js",
+    "main.js": "/oron-server/static/js/main.14752832.js",
     "static/media/pngwing.png": "/oron-server/static/media/pngwing.aa16f9f7e6884b8e1b38.png",
     "static/media/pngwing2.png": "/oron-server/static/media/pngwing2.ca6e35a7de505b088034.png",
     "static/media/Rectangle 24.png": "/oron-server/static/media/Rectangle 24.6d36abbea493c6d96dbf.png",
@@ -22,10 +22,10 @@
     "static/media/fa-v4compatibility.woff2": "/oron-server/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/oron-server/index.html",
     "main.8b72f9d9.css.map": "/oron-server/static/css/main.8b72f9d9.css.map",
-    "main.03872c94.js.map": "/oron-server/static/js/main.03872c94.js.map"
+    "main.14752832.js.map": "/oron-server/static/js/main.14752832.js.map"
   },
   "entrypoints": [
     "static/css/main.8b72f9d9.css",
-    "static/js/main.03872c94.js"
+    "static/js/main.14752832.js"
   ]
 }
